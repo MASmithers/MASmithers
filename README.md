@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MASmithers
 - 👀 I’m interested in ... all sorts of things
-- 🌱 I’m currently learning ... GO amd Life
+- 🌱 I’m currently learning ... GO and Life
 - 💞️ I’m looking to collaborate on ...nothing just yet, I've not mastered Life
 - 📫 How to reach me ... try waving
 
